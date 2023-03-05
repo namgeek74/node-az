@@ -15,3 +15,5 @@ export const sumTwoNum = (a, b) => a + b;
 // abc
 
 // 1
+
+// 2
